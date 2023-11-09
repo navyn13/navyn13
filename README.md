@@ -1,40 +1,37 @@
-# About Me
-
-## Introduction
-
-Hello! I'm Naveen, a second-year Computer Science Engineering student at ABES Engineering College. Passionate about technology, I'm actively engaged in MERN stack development and open source contributions.
-
-## Interests
-
-- **Software Development**: Proficient in MERN stack (MongoDB, Express.js, React, Node.js) and enthusiastic about learning new technologies.
-- **Open Source**: Actively contributing to open source projects to expand my knowledge and support the community.
-- **Problem-Solving**: Enjoy tackling challenging problems and finding innovative solutions.
-- **Collaboration**: Fond of collaborating with fellow developers and working on interesting projects.
-
-## Skills
-
-- **Programming Languages**: JavaScript, HTML, CSS
-- **Frameworks and Libraries**: React, Node.js, Express.js, D3 Js
-- **Version Control**: Git
-- **Database**: MongoDB
-- **Tools and Platforms**: Visual Studio Code, GitHub
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Naveen</a></h1>
+<h3 align="center">A passionate Web developer from Delhi India &#127470;&#127475</h3>
 
 
-## Education
 
-- **ABES Engineering College**: Pursuing a Bachelor's degree in Computer Science Engineering.
-
-## Contact
-
-- **GitHub**: https://github.com/navyn13
-- **LinkedIn**: https://www.linkedin.com/in/naveen-krishna-gupta-8bb992245/
-- **Email**: navyn13102003@gmail.com
-
-## Hobbies
-
-Outside of coding, I enjoy playing chess, badminton.
+<a target="_blank" align="center">
+  <img align="right" top="5500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<br>
+<br>
 
 
-Grateful for the support received from mentors, peers.
+- 🌱 I’m currently looking forward to contribute to Open Source.
+
+- 🌱 I’m currently learning React.
 
 
+- 💬 Ask me about **NodeJs & React-native**
+
+- 📫 How to reach me **navyn13102003@gmail.com**
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/naveen-krishna-gupta-8bb992245/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/navyn13">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+			<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/NaveenG03274467">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
+
+</p>
