@@ -14,7 +14,7 @@ Naveen</a></h1>
 - 🌱 I’m currently looking forward to contribute to Open Source.
 - 🌱 I’m currently learning React.
 - 🧠I'm also practising Data Structures & Algorithms.
-- 💬 Ask me about **NodeJs & React-native**
+- 💬 Ask me about **NodeJs & ReactJs**
 
 - 📫 How to reach me **navyn13102003@gmail.com**
 
