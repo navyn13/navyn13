@@ -11,7 +11,6 @@ Naveen</a></h1>
 <br>
 
 
-- 🌱 I’m currently looking forward to contribute to Open Source.
 - 🌱 I’m currently learning React.
 - 🧠I'm also practising Data Structures & Algorithms.
 - 💬 Ask me about **NodeJs & ReactJs**
