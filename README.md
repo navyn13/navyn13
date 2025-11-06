@@ -6,7 +6,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -16,15 +16,7 @@
 
 </div>
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyn13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -32,7 +24,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -46,15 +38,12 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyn13&theme=tokyonight)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyn13&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyn13&theme=tokyonight)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyn13&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyn13&theme=tokyonight)
 
 </div>
 
-## 🔥 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
