@@ -1,11 +1,3 @@
-# Hi there! 👋 I'm Naveen
-
-<div align="center">
-  
-## Backend Developer
-
-</div>
-
 ## GitHub Stats
 
 <div align="center">
