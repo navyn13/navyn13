@@ -1,29 +1,3 @@
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyn13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyn13&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navyn13&theme=tokyo-night&hide_border=true&area=true)](https://github.com/navyn13)
-
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=navyn13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/navyn13)
-
-</div>
-
 ## 📊 Detailed Stats
 
 <div align="center">
