@@ -23,17 +23,6 @@
 - GitHub profile: [@navyn13](https://github.com/navyn13)
 - X/Twitter: [@NaveenG03274467](https://x.com/NaveenG03274467)
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=navyn13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Naveen's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyn13&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=navyn13&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Connect
 
 <p>
