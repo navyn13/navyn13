@@ -34,22 +34,6 @@
   <img height="170" src="https://streak-stats.demolab.com?user=navyn13&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Recent Projects
-
-These are pulled from the work currently visible on my GitHub profile:
-
-- [garf](https://github.com/navyn13/garf)  
-  TypeScript project with a live deployment at [garf-alpha.vercel.app](https://garf-alpha.vercel.app)
-
-- [movie-recommendation-system](https://github.com/navyn13/movie-recommendation-system)  
-  A machine learning / notebook-based project around movie recommendations
-
-- [shell-scripts](https://github.com/navyn13/shell-scripts)  
-  Utility and automation work built with Python-based scripting
-
-- [prometheus](https://github.com/navyn13/prometheus)  
-  Another active public repository from the current profile feed
-
 ## Connect
 
 <p>
