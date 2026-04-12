@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Gupta 👋
+# Hey, I’m Naveen Gupta 👋
 
 <p align="center">
   <a href="https://github.com/navyn13">
@@ -15,15 +15,15 @@
   </a>
 </p>
 
-## About Me 🚀
+## A Bit About Me 🚀
 
-- 🎓 Computer science student at **ABES Engineering College, Ghaziabad**
-- 📍 Based in **Delhi, India**
-- 💻 Building across **web development, TypeScript apps, scripting, and ML notebooks**
-- 🐙 GitHub profile: [@navyn13](https://github.com/navyn13)
+- 🎓 I’m a computer science student at **ABES Engineering College, Ghaziabad**
+- 📍 I’m based in **Delhi, India**
+- 💻 I like building stuff across **web development, TypeScript apps, scripting, and ML notebooks**
+- 🐙 GitHub: [@navyn13](https://github.com/navyn13)
 - ✖️ X/Twitter: [@NaveenG03274467](https://x.com/NaveenG03274467)
 
-## Connect 🤝
+## Let’s Connect 🤝
 
 <p>
   <a href="https://github.com/navyn13">
@@ -36,4 +36,4 @@
 
 ---
 
-<sub>📊 Profile metrics above use live GitHub-backed endpoints, so the numbers update automatically as the profile changes.</sub>
+<sub>📊 The profile metrics above come from live GitHub-backed endpoints, so they update automatically as things change.</sub>
